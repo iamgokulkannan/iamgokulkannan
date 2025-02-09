@@ -1,48 +1,70 @@
-## 👋 Hey there, I'm Gokul Kannan!
+## 👋 Hey there, I'm Gokul Kannan!  
 
-🚀 **Web Designer | Ethical Hacker | Cybersecurity Enthusiast | Entrepreneur Mentor**  
-📍 Based in South India  
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&width=500&lines=Web+Designer+|+Cybersecurity+Enthusiast;Entrepreneur+Mentor+|+Ethical+Hacker;Building+Digital+Experiences!" alt="Typing SVG" />  
+</p>
+
+---  
+
+### 🚀 About Me
 🎓 **B.Tech IT (2025-2027) | Diploma in Computer Engineering (2024)** @ PSG College of Technology  
-💻 Mentor of many startups – Crafting Digital Experiences
+💻 **Founder of Luno Tech** – Crafting high-end digital solutions.  
+🔒 Passionate about **Cybersecurity, Web Development & UI/UX Design**.
 
----
+---  
 
-### 🔥 What I Do
-- **Web & App Development** – Creating interactive, modern, and highly engaging UIs. *(Think Apple-style magic scroll effects!)*
-- **Cybersecurity & Ethical Hacking** – Skilled in vulnerability assessment, penetration testing & ethical hacking.
-- **Entrepreneurship ** – Running Luno Tech, providing top-tier design, branding & digital solutions.
-- **UI/UX Design** – Passionate about sleek, aesthetic, and responsive web designs.
+## 🔥 What I Do  
+- 🚀 **Web & App Development** – Crafting interactive, Apple-style magic scroll UIs.  
+- 🛡 **Cybersecurity & Ethical Hacking** – Penetration testing, vulnerability assessment.  
+- 📈 **Entrepreneurship** – Helping startups grow with digital branding.  
+- 🎨 **UI/UX Design** – Creating sleek, aesthetic, and immersive web designs.  
 
----
+---  
 
-### 🏆 Featured Projects
-#### 🌐 **Web Development**
-- **[Gokul's Shawarma](https://gokuls-shawarma.netlify.app)** 🍗 – A modern restaurant website.
-- **[Anamcara](https://anamcara.netlify.app)** 📿 – A beads bracelet store with an elegant UI.
-- **[Portfolio](https://gokulkannan.vercel.app)** 🚀 – My personal interactive portfolio.
-- **[Musify](https://gokul-musify.netlify.app)** 🎵 – A music streaming platform.
-- **[Satta Pai](#)** 👕 – Clothing brand website (*In Progress...*)
+## 🏆 Featured Projects  
+### 🌐 Web Development
+- 🚀 **[Gokul's Shawarma](https://gokuls-shawarma.netlify.app)** 🍗 – A modern restaurant website.
+- 📿 **[Anamcara](https://anamcara.netlify.app)** – A beads bracelet store with an elegant UI.
+- 🎵 **[Musify](https://gokul-musify.netlify.app)** – A music streaming platform.
+- 👕 **[Satta Pai](#)** – Clothing brand website (*Coming Soon...*)
 
-#### 🔒 **Cybersecurity**
-- **VulnScan** 🛡️ – Web penetration testing tool with advanced modules.
+### 🔒 Cybersecurity
+- 🛡 **VulnScan** – Advanced web penetration testing tool.
 
----
+---  
 
-### 🛠️ Tech Stack & Tools
-**Frontend:** React.js, Tailwind CSS, JavaScript, HTML, CSS  
-**Backend:** Learning Node.js & MongoDB  
-**Security:** Kali Linux, Burp Suite, Nmap, SQLmap  
-**Design:** Figma, Photoshop, Illustrator  
-**Other:** MySQL, Parallels, GitHub, Web Scraping
+## 🛠️ Tech Stack & Tools  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,mongodb,git,figma,photoshop,kali" />  
+</p>
 
----
+---  
 
-### 🌎 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://gokulkannan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkannan/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gokul.kannan_/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulkannan2006)
+## 🚀 Connect with Me  
+<p align="center">
+  <a href="https://gokulkannan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gxkux/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gxkux/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/iamgokulkannan">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+---  
 
-💡 *"Always exploring, learning, and creating the future!"* 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamgokulkannan/iamgokulkannan/main/github-metrics.svg" alt="GitHub Stats" width="75%" />
+</p>
+
+---  
+
+## ⚡ Fun Fact  
+💡 *"Always exploring, learning, and creating the future!"* 🚀  
+
+> ⭐ *If you like my work, consider giving a star to my repositories!* ⭐
