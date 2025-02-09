@@ -58,9 +58,10 @@
 
 ---  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamgokulkannan/iamgokulkannan/main/github-metrics.svg" alt="GitHub Stats" width="75%" />
-</p>
+<h3> 🐍 Contribution Snake</h3>
+<div align="center">
+  <img src="https://github.com/iamgokulkannan/snake.yml" />
+</div>
 
 ---  
 
