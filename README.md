@@ -58,10 +58,11 @@
 
 ---  
 
-<h3> 🐍 Contribution Snake</h3>
-<div align="center">
-  ![GitHub Snake](https://github.com/iamgokulkannan/iamgokulkannan/blob/output/github-contribution-grid-snake.svg)
-</div>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/iamgokulkannan/iamgokulkannan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
+
 
 ---  
 
