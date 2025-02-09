@@ -8,7 +8,6 @@
 
 ### 🚀 About Me
 🎓 **B.Tech IT (2025-2027) | Diploma in Computer Engineering (2021 - 2024)** @ PSG College of Technology  
-💻 **Founder of Luno Tech** – Crafting high-end digital solutions.  
 🔒 Passionate about **Cybersecurity, Web Development & UI/UX Design**.
 
 ---  
