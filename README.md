@@ -1,15 +1,8 @@
 ## 👋 Hey there, I'm Gokul Kannan!  
 
 <p align="center">  
-  <img id="typing-svg" src="" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&width=1000&lines=Web+Designer+|+Cybersecurity+Enthusiast;Entrepreneur+Mentor+|+Ethical+Hacker;Building+Digital+Experiences!" alt="Typing SVG" />  
 </p>
-
-<script>
-  function updateTypingSVG() {
-    const isDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    const color = isDarkMode ? "F7F7F7" : "333333"; // White for dark theme, black for light theme
-    document.getElementById("typing-svg").src = `https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=${color}&center=true&width=1000&lines=Web+Designer+|+Cybersecurity+Enthusiast;Entrepreneur+Mentor+|+Ethical+Hacker;Building+Digital+Experiences!`;
-  }
 
   updateTypingSVG();
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", updateTypingSVG);
