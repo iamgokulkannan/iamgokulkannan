@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&width=1000&lines=Web+Designer+|+Cybersecurity+Enthusiast;Entrepreneur+Mentor+|+Ethical+Hacker;Building+Digital+Experiences!" alt="Typing SVG" />  
 </p>
 
-  updateTypingSVG();
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", updateTypingSVG);
-</script>
 
 
 ---  
