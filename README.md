@@ -12,7 +12,7 @@
 ---  
 
 ### 🚀 About Me
-🎓 **B.Tech IT (2025-2027) | Diploma in Computer Engineering (2021 - 2024)** @ PSG College of Technology  
+🎓 **B.Tech IT (2025-2027) @ PSG Polytechnic College | Diploma in Computer Engineering (2021 - 2024)** @ PSG College of Technology  
 🔒 Passionate about **Cybersecurity, Web Development & UI/UX Design**.
 
 ---  
