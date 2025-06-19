@@ -27,10 +27,10 @@
 
 ## 🏆 Featured Projects  
 ### 🌐 Web Development
-- 🚀 **[Gokul's Shawarma](https://gokuls-shawarma.netlify.app)** 🍗 – A modern restaurant website.
+- 🚀 **[Gokul's Shawarma](https://luno-shawarma.netlify.app)** 🍗 – A modern restaurant website.
 - 📿 **[Anamcara](https://anamcara.netlify.app)** – A beads bracelet store with an elegant UI.
 - 🎵 **[Musify](https://gokul-musify.netlify.app)** – A music streaming platform.
-- 👕 **[Satta Pai](#)** – Clothing brand website (*Coming Soon...*)
+- 👕 **[Satta Pai](https://sattapai.netlify.app)** – Clothing brand website 
 
 ### 🔒 Cybersecurity
 - 🛡 **VulnScan** – Advanced web penetration testing tool.
