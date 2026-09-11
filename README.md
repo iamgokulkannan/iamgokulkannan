@@ -30,7 +30,7 @@ The pause before a click.
 The silence between transitions.  
 The invisible architecture of attention.
 
-I work at the intersection of **strategy, design and technology** — turning ideas into digital experiences that feel considered, distinctive and built to last.
+I work at the intersection of **strategy, design and technology** - turning ideas into digital experiences that feel considered, distinctive and built to last.
 
 Websites are my kind of Netflix.
 
