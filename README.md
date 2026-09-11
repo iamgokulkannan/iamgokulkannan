@@ -52,34 +52,6 @@ Connected business systems that replace fragmented workflows with something made
 
 <br />
 
-## Selected Work
-
-### SaaSify
-A SaaS experience built around movement, depth and scroll-driven storytelling.
-
-`React · TypeScript · Motion`
-
-### Luminary
-A photography experience exploring kinetic layouts and physics-based interaction.
-
-`React · GSAP`
-
-### Dino Portfolio
-An experimental portfolio built with a custom physics engine.
-
-`JavaScript · Canvas`
-
-### Neon Commerce
-An immersive e-commerce experiment exploring a more expressive digital storefront.
-
-`React · Redux`
-
-### VulnScan
-An automated vulnerability-scanning tool built for web security testing.
-
-`Python · Security`
-
-<br />
 
 ---
 
